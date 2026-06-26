@@ -95,7 +95,7 @@ requests
 ## Command Install
 
 ```
-git clone https://github.com/esfelurm/
+git clone https://github.com/r00thex/AdjSpanner.git
 cd 
 python .py
 ```
