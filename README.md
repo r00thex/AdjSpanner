@@ -1,9 +1,6 @@
 # AdjSpanner Spanner
 
-A good tool for Red team work, which you can develop or use yourself 
-
-
-<img src="">
+A good tool for Red team work, which you can develop or use yourself 😁 
 
 ## Options
 
